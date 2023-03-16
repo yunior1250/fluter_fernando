@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377084340114",
+    "firebase_url": "https://flutter-varios-b8018-default-rtdb.firebaseio.com",
+    "project_id": "flutter-varios-b8018",
+    "storage_bucket": "flutter-varios-b8018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377084340114:android:b297efcde6c6bb9194834b",
+        "android_client_info": {
+          "package_name": "com.junior.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377084340114-8bh1d87fef4fq4gq0joqtogj4cbln6cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junior.notificaciones",
+            "certificate_hash": "6cc1e299f287645090ca9d32fe32bc36d46f52d2"
+          }
+        },
+        {
+          "client_id": "377084340114-nh2qekq6dfug5id71moq6dpbsqu0n8pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVH3S5j5LOsgr7pCgjRwwl3uuBDift5mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377084340114-nh2qekq6dfug5id71moq6dpbsqu0n8pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
